@@ -1,9 +1,5 @@
 services:
   litellm:
-    build:
-      context: .
-      args:
-        target: runtime
     image: litellm/litellm:v1.81.3-stable
     #########################################
     ## Uncomment these lines to start proxy with a config.yaml file ##

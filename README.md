@@ -15,7 +15,7 @@
 变量 | 说明
 ----|----------
 `MODELSCOPE_API_KEY` | 从 [魔塔社区](https://modelscope.cn/models) 获取到的 `API_KEY`
-`NVIDIA_API_KEY` | 从 [英伟达官网](https://build.nvidia.com/models)获取到的 `API_KEY`
+`NVIDIA_API_KEY` | 从 [英伟达官网](https://build.nvidia.com/models) 获取到的 `API_KEY`
 
 ### 1.2. 启动服务
 
